@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.Owin.ja</id>
+    <version>2.0.0</version>
+    <title>Microsoft Owin 日本語リソース</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/aspnetcomponent_rtw_JPN.htm</licenseUrl>
+    <projectUrl>http://katanaproject.codeplex.com/</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>このパッケージには、Microsoft Owin の日本語サテライト アセンブリが含まれています。</description>
+    <summary>Microsoft.Owin パッケージの日本語リソース。</summary>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <language>ja</language>
+    <tags>OWIN</tags>
+    <dependencies>
+      <dependency id="Microsoft.Owin" version="[2.0.0]" />
+    </dependencies>
+  </metadata>
+</package>

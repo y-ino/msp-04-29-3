@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.AspNet.SignalR.ja</id>
+    <version>2.0.0</version>
+    <title>Microsoft ASP.NET SignalR 日本語リソース</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/aspnetcomponent_rtw_JPN.htm</licenseUrl>
+    <projectUrl>http://www.asp.net/signalR</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>これは、ASP.NET SignalR の日本語サテライト アセンブリのメタパッケージです。</description>
+    <summary>Microsoft.AspNet.SignalR パッケージの日本語リソース</summary>
+    <copyright>© Microsoft Corporation. All rights reserved.</copyright>
+    <language>ja</language>
+    <tags>Microsoft AspNet SignalR AspNetSignalR websockets real-time realtime comet HTTP streaming</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.SignalR.JS" version="2.0.0" />
+      <dependency id="Microsoft.AspNet.SignalR.SystemWeb.ja" version="2.0.0" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.5" />
+    </frameworkAssemblies>
+  </metadata>
+</package>
